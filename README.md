@@ -5,5 +5,6 @@ Use keys '←' and '→' to move ship, and press Space to shoot!
 
 Field updates every 0,3 seconds, but take in mind that once you pressed any arrow key on your keyboard, spaceship will move in that direction until you press another arrow key! That way the game will be more interesting!
 
-Hope you'll like it! =)
+**Hope you'll like it! =)**
 
+_P.S. Comments on Russian language in the code are there for better understanding for what every part of code is responsible for._
